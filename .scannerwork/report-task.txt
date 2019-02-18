@@ -1,0 +1,6 @@
+projectKey=first1
+serverUrl=http://192.168.8.246:9000
+serverVersion=6.7.5.38563
+dashboardUrl=http://192.168.8.246:9000/dashboard/index/first1
+ceTaskId=AWcRqKx-3Ti6GCUethSM
+ceTaskUrl=http://192.168.8.246:9000/api/ce/task?id=AWcRqKx-3Ti6GCUethSM
